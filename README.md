@@ -3,6 +3,6 @@ Js controlled layout
 
 Problematic: CSS provides no features to interact between two different layout state. This is really bad for interactive ui.
 
-layout.js is a small layout engine (only grid for now) which provide a way to interact between two layout state.
+layout.js is a small layout engine (only grid for now) which provide a way to interact between two layouts states.
 
 Still in exploration mode. 
